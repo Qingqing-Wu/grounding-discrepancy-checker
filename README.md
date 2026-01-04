@@ -8,7 +8,7 @@ rule-based matching logic and generating discrepancy reports and summaries.
 
 ---
 
-## 30-Second Overview
+## 30-Second Quick View
 
 Grounding discrepancies occur when physical inventory grounding records do not
 match supporting operational data such as inbound receipts, value-added records,
