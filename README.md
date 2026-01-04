@@ -24,6 +24,10 @@ command-line interaction**.
 > **Note:** No raw operational data are included in this repository.  
 > The project focuses on discrepancy logic, preprocessing rules, and application design.
 
+## Core Skills Demonstrated:
+Data Analytics · Data Validation & Reconciliation · Operational Analysis · Exception Detection · KPI Monitoring · Decision Support
+
+
 ![Grounding Discrepancy Demo](docs/demo.gif)
 
 ---
