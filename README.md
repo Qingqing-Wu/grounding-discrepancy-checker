@@ -99,7 +99,9 @@ pip install -r requirements.txt
 
 ### 2. Launch the Application
 
+```bash
 python Auto_Grounding_Discrepancy_Checker_app_2_0.py
+```
 
 ## Code Structure
 
